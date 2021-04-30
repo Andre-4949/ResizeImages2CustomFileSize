@@ -1,0 +1,1 @@
+# DiscordEmoteScaleTo256KB
